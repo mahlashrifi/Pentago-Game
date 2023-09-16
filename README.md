@@ -4,14 +4,14 @@ The game can be played in both console and graphical mode. In both modes you can
 
 The initial menu of the game is as follows :
 
-![image-20230916221249580](C:\Users\My NoteBook\AppData\Roaming\Typora\typora-user-images\image-20230916221249580.png)
+![image-20230916221249580](https://github.com/mahlashrifi/Pentago-Game/blob/master/screen-shots/menu.png)
 
  Example of consular game movements:
 
-![image-20230916220312943](C:\Users\My NoteBook\AppData\Roaming\Typora\typora-user-images\image-20230916220312943.png)
+![Double consular game](https://github.com/mahlashrifi/Pentago-Game/blob/master/screen-shots/consular.png)
 
 
 
 An image of the graphic game:
 
-![image-20230916222051129](C:\Users\My NoteBook\AppData\Roaming\Typora\typora-user-images\image-20230916222051129.png![image-20230916222208811](C:\Users\My NoteBook\AppData\Roaming\Typora\typora-user-images\image-20230916222208811.png)
+![Double graphical game](https://github.com/mahlashrifi/Pentago-Game/blob/master/screen-shots/graphical.png)
